@@ -61,5 +61,5 @@ For any questions, please contact kendayao at kendayao@gmail.com
 
 ## Deployed Application URL
 
-Deployed application link: https://pristine-arches-60028.herokuapp.com/
+Deployed application link: https://book-search-g.herokuapp.com/
 
